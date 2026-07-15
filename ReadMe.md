@@ -11,9 +11,8 @@
 ## 🚀 About Me
 
 - 🎓 CSE Student at **Green University of Bangladesh**
-- 💻 Full Stack Web Developer specializing in the **MERN Stack**
-- 🔐 Also into **Cybersecurity**
-- 📚 3+ years of experience as a **tutor**
+- 💻 **3+ years** of experience in **Web Development** (MERN Stack)
+- 🔐 **1+ year** of experience in **Cybersecurity**
 - 🌱 Always learning, always building
 - ⚡ Fun fact: I turn coffee ☕ into code
 
@@ -28,6 +27,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jibonmadbercc/)
 [![Quora](https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white)](https://bn.quora.com/profile/Zibon-Madbor)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zibonmadbor@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://zibonmadbor.netlify.app/)
 
 </div>
 
@@ -74,10 +74,24 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=zibonmadbor&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zibonmadbor&layout=compact&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+<table>
+<tr>
+<td><img width="100%" src="https://github-readme-stats.vercel.app/api?username=zibonmadbor&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="zibonmadbor's GitHub stats"/></td>
+<td><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zibonmadbor&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/></td>
+</tr>
+</table>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=zibonmadbor&theme=radical&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=zibonmadbor&theme=radical&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+<br/>
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zibonmadbor&theme=react-dark&hide_border=true&area=true" alt="zibonmadbor's contribution graph"/>
 
 </div>
 
@@ -88,16 +102,6 @@
 <div align="center">
 
 ![](https://github-profile-trophy.vercel.app/?username=zibonmadbor&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1)
-
-</div>
-
-<br/>
-
-## 🔝 Top Contributed Repo
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=zibonmadbor&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 </div>
 
