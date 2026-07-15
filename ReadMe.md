@@ -123,6 +123,5 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer"/>
 
-<sub>Proudly created with ❤️ · <a href="https://gprm.itsvg.in">GPRM</a></sub>
 
 </div>
